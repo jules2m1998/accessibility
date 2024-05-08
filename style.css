@@ -1,0 +1,10 @@
+body {
+  background-color: #fbf9e9;
+  font-family: System-ui, sans-serif;
+  color: #423903;
+}
+a { color: #136aea; }
+.navy { color: #001F3F; }
+.bg-card { background-color: #fffdf4; border: 0; border-radius: 0; }
+.bg-card--accessible { border-top: 10px solid #16c926; }
+.bg-card--inaccessible { border-top: 10px solid #e41716; }
